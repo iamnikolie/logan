@@ -1,3 +1,9 @@
+logan-server (0.1.1) unstable; urgency=low
+
+  * rebuild with new versions of libs.
+
+ -- Mykola Klitovchenko <mykola.klitovchenko@gmail.com>  Thu, 16 Apr 2020 19:33:28 +0300
+
 logan-server (0.1.0.1) unstable; urgency=low
 
   * Fix debian specs
