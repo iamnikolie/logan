@@ -1,0 +1,11 @@
+logan-server (0.1.0.1) unstable; urgency=low
+
+  * Fix debian specs
+
+ -- Mykola Klitovchenko <mykola.klitovchenko@gmail.com>  Tue, 16 Apr 2020 16:15:00 +0200
+
+logan-server (0.1.0) unstable; urgency=low
+
+  * Initial release
+
+ -- Mykola Klitovchenko <mykola.klitovchenko@gmail.com>  Tue, 16 Apr 2020 16:00:00 +0200

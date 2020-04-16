@@ -1,0 +1,2 @@
+d /var/lib/logan 0755 logan logan -
+d /var/log/logan 0755 logan logan -

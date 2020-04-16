@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: logan-server
+
+Files: *
+Copyright: 2020 Mykola Klitovchenko <mykola.klitovchenko@gmail.com>
+License: BSD
+ Feel free to use)

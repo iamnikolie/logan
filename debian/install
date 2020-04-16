@@ -1,0 +1,3 @@
+bin/logan-server /usr/sbin
+defconfs/logan-server.conf.default /etc/logan
+bin/start.sh /usr/share/logan

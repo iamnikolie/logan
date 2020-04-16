@@ -1,0 +1,24 @@
+Source: logan-server
+Section: non-free/misc
+Priority: extra
+Maintainer: Mykola Klitovchenko <mykola.klitovchenko@gmail.com>
+Build-Depends: debhelper, dh-systemd, golang, 
+ golang-gopkg-mgo.v2-dev, 
+ golang-github-nats-io-go-nats-dev, 
+ golang-github-sirupsen-logrus-dev,
+ golang-gopkg-mgo.v2-dev,
+ git, ca-certificates
+Standards-Version: 4.1.4
+Homepage: https://github.com/iamnikolie/logan
+
+Package: logan-server
+Architecture: any
+Depends: reopener, logrotate
+Description: EnvisionX Budget Server
+ EnvisionX Budget Server.
+
+Package: golang-logan
+Architecture: all
+Depends: golang-gopkg-mgo.v2-dev, golang-github-nats-io-go-nats-dev, golang-github-sirupsen-logrus-dev
+Description: Golang client for EnvisionX Budget Server
+ Golang client for EnvisionX Budget Server.

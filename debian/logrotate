@@ -1,0 +1,8 @@
+/var/log/logan/messages.log {
+    maxsize 1000M
+    compress
+    delaycompress
+    missingok
+    notifempty
+    maxage 30
+}
